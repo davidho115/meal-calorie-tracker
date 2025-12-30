@@ -1,5 +1,5 @@
 {
-  "name": "meal-calorie-tracker",
+  "name": "cal-control",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
